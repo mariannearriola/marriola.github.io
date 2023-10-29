@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CS PhD student @ Cornell Tech"
   location         : "New York, New York"
-  email            : "ma2238@cornell.edu
+  email            : "ma2238@cornell.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
