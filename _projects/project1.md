@@ -1,7 +1,4 @@
 ---
-title: "Project 1"
-excerpt: "Project 1 description"
-header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+title: "Simple and Effective Masked Langauge Diffusion Models"
+excerpt: "While diffusion models excel at generating high-quality images, they have traditionally lagged behind autoregressive (AR) methods in language modeling. We apply an effective training recipe and derive a simplified, Rao-Blackwellized objective that improves the performance of language diffusion models."
 ---

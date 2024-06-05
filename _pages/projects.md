@@ -3,6 +3,6 @@ layout: collection
 title: "Projects"
 collection: projects
 permalink: /projects/
-author_profile: false
+author_profile: true
+classes: wide
 ---
-test
