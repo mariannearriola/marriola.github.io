@@ -4,5 +4,6 @@ excerpt: "While standard protein representations depend on sequence, we hypothes
 link: https://curj.caltech.edu/2022/06/22/identifying-optimal-proteins-by-their-structure-using-graph-neural-networks/
 collection: projects
 header:
+    teaser: /assets/directed_ev.png
     image: /assets/directed_ev.png
 ---
