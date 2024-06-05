@@ -4,6 +4,7 @@ excerpt: "Detecting suspicious or unexpected patterns in networks without superv
 collection: projects
 header:
     teaser: /assets/images/msgad.png
+classes: wide
 ---
 ***Arriola, M.,*** *Kosan, M., Huang, Z., Sharma, S., Singh, A.*
 

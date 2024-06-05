@@ -4,6 +4,7 @@ excerpt: "Joint analysis of multi-omic single-cell data across cohorts has signi
 collection: projects
 header:
     teaser: /assets/images/sc5.png
+classes: wide
 ---
 ***Arriola, M.,*** *Pan, W., Zhou, M., Zhang, Q., Su, C., Wang, F.*
 
