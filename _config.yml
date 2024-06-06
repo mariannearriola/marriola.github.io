@@ -304,3 +304,4 @@ defaults:
       author_profile: true
       share: false
       comments: false
+      show_date: true
