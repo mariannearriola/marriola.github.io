@@ -14,4 +14,4 @@ While diffusion models excel at generating high-quality images, they have tradit
 
 <a href="https://arxiv.org/abs/2406.07524" class="fas fa-file"></a>
 <a href="https://s-sahoo.com/mdlm/" class="fa fa-link"></a>
-<a href="https://github.com/kuleshov-group/mdlm" class="fa-brands fa-github" ></a>
+<a href="https://github.com/kuleshov-group/mdlm" class="fab fa-github" ></a>
