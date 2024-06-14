@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Google Scholar"
-      icon: "fab fa-google-scholar"
+      icon: "fab fa-google"
       url: "https://scholar.google.com/citations?hl=en&user=gSTuQicAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
