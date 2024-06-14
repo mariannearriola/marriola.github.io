@@ -15,4 +15,4 @@ header:
 Joint analysis of multi-omic single-cell data across cohorts has significantly enhanced the comprehensive analysis of cellular processes. However, most of the existing approaches for this purpose require access to samples with complete modality availability, which is impractical in many real-world scenarios. We propose (Single-Cell Cross-Cohort Cross-Category) integration, a novel framework that learns unified cell representations under domain shift without requiring full-modality reference samples.
 
 <a href="https://arxiv.org/abs/2405.11280" class="fas fa-file"></a>
-<a href="https://github.com/anonsc5kdd/sc5" class="fa fa-github"></a>
+<a href="https://github.com/anonsc5kdd/sc5" class="fa-brands fa-github"></a>
