@@ -7,6 +7,9 @@ date: "2024-06-06"
 ---
 *Sahoo, S., **Arriola, M.,** Schiff, Y., Gokalsan, A., Marroquin, E., Chiu, J. T., Rush, A., Kuleshov, V.*
 
+**<a href="https://accml.bio/">AccMLBio ICML Workshop 2024</a>** [Spotlight], 
+**<a href="https://spigmworkshop2024.github.io/">SPIGM ICML Workshop 2024</a>**
+
 <img src="/assets/images/mdlm.png" style="width: 75%">
 
 
